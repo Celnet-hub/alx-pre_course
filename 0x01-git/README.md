@@ -1,2 +1,3 @@
-# alx-pre_course
-# Created a Directory
+# Alx_pre_course
+
+This folder is used to hold folders used for the ALX SE programme
